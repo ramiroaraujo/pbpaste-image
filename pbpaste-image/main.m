@@ -2,6 +2,7 @@
 //  main.m
 //  pbpaste-image
 //  cli app for extracting image from clipboard and sending it to stdout as binary data
+// compile with: gcc main.m -o pbpaste-image -ObjC -framework AppKit
 //
 //  Created by Ramiro Araujo on 2/20/14.
 //  Copyright (c) 2014 Ramiro Araujo. All rights reserved.
