@@ -1,0 +1,7 @@
+workflow/.bundle
+workflow/bundle
+.idea/workspace.xml
+.idea/tasks.xml
+
+# projectwise
+workflow/favorites.json
